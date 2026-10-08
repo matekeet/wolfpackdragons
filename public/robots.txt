@@ -1,0 +1,7 @@
+# Robots.txt for Wolfpack Dragons Dragon Boat Racing Club
+User-agent: *
+Allow: /
+Disallow: /firebase-config.js
+
+# Sitemap
+Sitemap: https://wolfpackdragons.web.app/sitemap.xml

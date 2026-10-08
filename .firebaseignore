@@ -1,0 +1,8 @@
+# Firebase ignore file
+firebase.json
+.firebaserc
+.firebase/
+.git/
+pictures/
+*.md
+*.log
